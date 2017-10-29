@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_shape.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\src\\main\\res\\drawable\\selector_shape.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\build\\intermediates\\res\\merged\\debug\\drawable\\test2.9.png",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\src\\main\\res\\drawable\\test2.9.png"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_test.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\src\\main\\res\\drawable\\shape_test.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\build\\intermediates\\res\\merged\\debug\\drawable\\test3.9.png",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\src\\main\\res\\drawable\\test3.9.png"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\build\\intermediates\\res\\merged\\debug\\drawable\\select_drawble.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\src\\main\\res\\drawable\\select_drawble.xml"
+    }
+]

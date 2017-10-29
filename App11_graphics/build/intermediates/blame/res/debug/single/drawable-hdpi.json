@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\App11_graphics\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img1.png",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\App11_graphics\\src\\main\\res\\drawable-hdpi\\img1.png"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\App11_graphics\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\App11_graphics\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\App11_graphics\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img2.png",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\App11_graphics\\src\\main\\res\\drawable-hdpi\\img2.png"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\App11_graphics\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img3.png",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\App11_graphics\\src\\main\\res\\drawable-hdpi\\img3.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup_guide2.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\src\\main\\res\\layout\\activity_setup_guide2.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup_guide1.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\src\\main\\res\\layout\\activity_setup_guide1.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup_guide3.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\src\\main\\res\\layout\\activity_setup_guide3.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\src\\main\\res\\layout\\activity_welcome.xml"
+    }
+]

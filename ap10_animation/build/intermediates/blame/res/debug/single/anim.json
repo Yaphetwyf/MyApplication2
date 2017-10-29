@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\build\\intermediates\\res\\merged\\debug\\anim\\left_out.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\src\\main\\res\\anim\\left_out.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\build\\intermediates\\res\\merged\\debug\\anim\\right_out.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\src\\main\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\build\\intermediates\\res\\merged\\debug\\anim\\left_in.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\src\\main\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_8.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\src\\main\\res\\anim\\cycle_8.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\build\\intermediates\\res\\merged\\debug\\anim\\image_progress.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\src\\main\\res\\anim\\image_progress.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\build\\intermediates\\res\\merged\\debug\\anim\\disappear_out.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\src\\main\\res\\anim\\disappear_out.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_in.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\src\\main\\res\\anim\\bottom_in.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\build\\intermediates\\res\\merged\\debug\\anim\\right_in.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\ap10_animation\\src\\main\\res\\anim\\right_in.xml"
+    }
+]

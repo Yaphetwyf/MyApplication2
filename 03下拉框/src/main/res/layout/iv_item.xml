@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:gravity="center_vertical"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_margin="10dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="30dp"
+        android:id="@+id/iv_item_left"
+        android:src="@drawable/user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="一一一"
+        android:textColor="#000000"
+        android:gravity="center_horizontal"
+        android:layout_weight="1"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/tv_item_middle_word"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         />
+    <ImageView
+        android:layout_margin="10dp"
+        android:id="@+id/iv_item_right"
+        android:src="@drawable/delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="30dp"
+        />
+
+</LinearLayout>

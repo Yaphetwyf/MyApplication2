@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\app10_animation2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\act_scanning_03.png",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\app10_animation2\\src\\main\\res\\drawable-hdpi\\act_scanning_03.png"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\app10_animation2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_scanner_malware.png",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\app10_animation2\\src\\main\\res\\drawable-hdpi\\ic_scanner_malware.png"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\app10_animation2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\security_progress_bg.png",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\app10_animation2\\src\\main\\res\\drawable-hdpi\\security_progress_bg.png"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\app10_animation2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\security_progress.png",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\app10_animation2\\src\\main\\res\\drawable-hdpi\\security_progress.png"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\app10_animation2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\app10_animation2\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

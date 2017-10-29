@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bitmap.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\src\\main\\res\\layout\\activity_bitmap.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tupian_test.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\src\\main\\res\\layout\\activity_tupian_test.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\build\\intermediates\\res\\merged\\debug\\layout\\activity_matrix.xml",
+        "source": "D:\\android\\androidprogram\\MyApplication2\\L11_Graphics\\src\\main\\res\\layout\\activity_matrix.xml"
+    }
+]

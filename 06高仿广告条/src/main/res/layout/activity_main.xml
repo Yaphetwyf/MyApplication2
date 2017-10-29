@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.yaphet.a06.MainActivity">
+    <RadioGroup
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:id="@+id/rg_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </RadioGroup>
+    <com.example.yaphet.a06.myViewpager
+        android:layout_below="@id/rg_main"
+        android:id="@+id/mv_main_myViewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+</RelativeLayout>
