@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context="com.example.yaphet.event_test.MainActivity">
+    <Button
+        android:id="@+id/bt_main_Busreceived"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="正常接收消息"/>
+    <Button
+        android:id="@+id/bt_main_Busreceivedsticky"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="接收粘性消息"
+        />
+    <TextView
+        android:id="@+id/tv_main_massage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="收到的结果"
+         />
+
+</LinearLayout>
