@@ -41,5 +41,4 @@ public class MainActivity extends Activity {
     void btButterKnife(View v){//view可以给也可以不给
         Toast.makeText(MainActivity.this, "点击了Button", Toast.LENGTH_SHORT).show();
     }
-
 }
