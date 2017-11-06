@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.yaphet.framement.activity.MainActivity">
+
+   <include layout="@layout/titlebar"/>
+   <FrameLayout
+       android:id="@+id/Fl_main_FrameLayout"
+       android:layout_weight="1"
+       android:layout_width="match_parent"
+       android:layout_height="0dp">
+      <ListView
+          android:id="@+id/lv_main_listview"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+      </ListView>
+
+   </FrameLayout>
+   <RadioGroup
+       android:id="@+id/BR_main_Group"
+       android:orientation="horizontal"
+       android:background="#11000000"
+       android:padding="5dp"
+       android:layout_gravity="center_horizontal"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+      <RadioButton
+          android:id="@+id/RB_main4_bttton1"
+          android:text="首页"
+          android:drawableTop="@drawable/ic_tab_audio_select"
+          style="@style/bottom_style_tag" />
+      <RadioButton
+          android:drawableTop="@drawable/ic_tab_video_select"
+          android:text="VIP"
+          android:id="@+id/RB_main4_bttton2"
+          style="@style/bottom_style_tag"
+          />
+      <RadioButton
+          android:drawableTop="@drawable/ic_tab_netvideo_stlect"
+          android:text="下载"
+          android:id="@+id/RB_main4_bttton3"
+          style="@style/bottom_style_tag" />
+      <RadioButton
+          android:drawableTop="@drawable/ic_tab_netaudio_select"
+          android:text="个人中心"
+          android:id="@+id/RB_main4_bttton4"
+          style="@style/bottom_style_tag"  />
+
+   </RadioGroup>
+
+</LinearLayout>
